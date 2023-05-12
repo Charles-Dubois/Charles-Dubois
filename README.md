@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
 <h3 align="center">Fullstack developper</h3>
 
-- 🌱 I’m currently learning **web developpement at Konexio and I looking for a 4/6 monthes internship from May**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
